@@ -9,7 +9,7 @@
 <img src="./stack.png"/>
 </div>
 
-<h3 align="center">My Work: </h3>
+<h3 align="center">My Work</h3>
 
 <hr>
 
@@ -19,25 +19,10 @@
 
 <hr>
 
-- 🌱 I'm currently enrolled in a JavaScript Back-End course at Software University, where I'm learning the fundamentals of ExpressJS, MongoDB, and Mongoose.
+🌱 I'm currently enrolled in a JavaScript Back-End course at Software University, where I'm learning the fundamentals of ExpressJS, MongoDB, and Mongoose.
 
-- ⚡ Fun fact: ...
+⚡ Fun fact: I have 9 years of experience in the banking sector, including roles as a Relationship Manager, Customer Experience Expert, and experienced Salesforce trainer. I also gained valuable experience in Scrum, Jira, and UAT testing while working on the biggest project in the bank to implement a new omnichannel platform.
 
-- 📫 How to reach me: ...
-
-<!--
-**iliavatafov/iliavatafov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🌱 I’m currently learning ...
-
-
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-
-- 😄 Pronouns: ...
-
--->
+📫 How to reach me:
+[![LinkedIn logo](path/to/linkedin-logo.png)](https://www.linkedin.com/in/ilia-vatafov-517ba3163/)
+[![Facebook logo](path/to/facebook-logo.png)](https://www.facebook.com/iliya.vatafov)
