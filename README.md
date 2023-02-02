@@ -1,6 +1,8 @@
 <h1 align="center">&nbsp; Hi there!&nbsp;:wave:. </h1>
 
 <p align="center"><img src="https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif" /></p>
+<h1 align="center">My name is Ilia Vatafov and I am a passionate Junior Front-End Developer,</h1>
+<p align="center">eager to bring my skills and enthusiasm to a dynamic and growing organization. With a strong background in HTML, CSS, and JavaScript, I am confident in my ability to contribute to the development and design of engaging and user-friendly websites. Whether it's creating visually appealing layouts or implementing responsive designs, I am always striving to exceed expectations and deliver exceptional results. I am eager to continue learning and growing as a developer, and am excited to see where my career will take me next. Let's create something great together!</p>
 
 - 🌱 I’m currently learning ...
 
