@@ -9,9 +9,13 @@
 <img src="./stack.png"/>
 </div>
 
-- 🌱 I’m currently learning ...
+<h1 align="center">My Work</h1>
 
-- 🔭 I’m currently working on ...
+- ### **React JS** - <a name="welovebooks" href="https://angular-bice-theta.vercel.app/">WeLoveBooks</a>
+
+- ### **React JS** - <a name="perfectjobs-lite" href="https://perfectjobs-lite.netlify.app/">PerfectJobs-Lite</a>
+
+- 🌱 I'm currently enrolled in a JavaScript Back-End course at Software University, where I'm learning the fundamentals of ExpressJS, MongoDB, and Mongoose.
 
 - ⚡ Fun fact: ...
 
