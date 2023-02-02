@@ -1,6 +1,6 @@
 <h1 align="center">&nbsp; Hi there!&nbsp;:wave:. </h1>
 
-<p align="center"><img src="https://tenor.com/bf29v.gif" /></p>
+<p align="center"><img src="https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif" /></p>
 
 - 🌱 I’m currently learning ...
 
