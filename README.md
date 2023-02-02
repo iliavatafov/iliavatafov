@@ -21,6 +21,6 @@
 
 🌱 I'm currently enrolled in a JavaScript Back-End course at Software University, where I'm learning the fundamentals of ExpressJS, MongoDB, and Mongoose.
 
-⚡ Fun fact: I have 9 years of experience in the banking sector, including roles as a Relationship Manager, Customer Experience Expert, and experienced Salesforce trainer. I also gained valuable experience in Scrum, Jira, and UAT testing while working on the biggest project in the bank to implement a new omnichannel platform.
+⚡ Fun fact: I have 9 years of experience in the banking sector, including roles as a Relationship Manager, Customer Experience Expert, and experienced Salesforce trainer. I also gained valuable experience in Scrum, Jira, and UAT testing while working on the project in the bank to implement a new omnichannel platform.
 
 📫 How to reach me: [![LinkedIn logo](./l.png)](https://www.linkedin.com/in/ilia-vatafov-517ba3163/) [![Facebook logo](./f.png)](https://www.facebook.com/iliya.vatafov)
