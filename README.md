@@ -6,7 +6,7 @@
 
 <h1 align="center">My Technology Stack</h1>
 <div align="center" >
-<img src="./stack.png"/>
+<img src="./stack.jpg"/>
 </div>
 
 - 🌱 I’m currently learning ...
