@@ -9,7 +9,8 @@
 <img src="./stack.png"/>
 </div>
 
-<h2 align="center">My Work</h2>
+<h3 align="center">My Work: </h3>
+
 <hr>
 
 - ### **React JS** - <a name="welovebooks" href="https://welovebooks.online/">WeLoveBooks</a>
