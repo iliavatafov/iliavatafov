@@ -1,6 +1,6 @@
 <h1 align="center">&nbsp; Hi there!&nbsp;:wave:. </h1>
 
-<p align="center"><img src="https://i.gifer.com/4ul.mp4" /></p>
+<p align="center"><img src="https://media.giphy.com/media/cJSDRt8csBx0A7YFfh/giphy.gif" /></p>
 
 - 🌱 I’m currently learning ...
 
