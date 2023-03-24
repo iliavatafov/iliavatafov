@@ -1,15 +1,17 @@
 <h1 align="center">&nbsp; Hi there!&nbsp;:wave:. </h1>
 
 <p align="center"><img src="https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif" /></p>
-<h2 align="center">My name is Ilia Vatafov and I am a passionate Junior Front-End Developer,</h2>
+<h1 align="center">My name is Ilia Vatafov and I am a passionate Junior Front-End Developer,</h1>
 <p align="center">eager to bring my skills and enthusiasm to a dynamic and growing organization. With a strong background in HTML, CSS, JavaScript, React, Express and Mongoose, I am confident in my ability to contribute to the development and design of engaging and user-friendly web applications. Whether it's creating visually appealing layouts or implementing responsive designs, I am always striving to exceed expectations and deliver exceptional results. I am eager to continue learning and growing as a developer, and am excited to see where my career will take me next. Let's create something great together!</p>
 
-<h2 align="center">My Technology Stack</h2>
+<h1 align="center">My Technology Stack</h1>
 <div align="center" >
 <img src="./stack.jpg"/>
 </div>
 
-<h2 align="center">My Work</h2>
+<h1 align="center">My Work</h1>
+
+<hr>
 
 - ### **React JS** - <a name="welovebooks" href="https://welovebooks.online/">WeLoveBooks</a>
 
@@ -18,6 +20,8 @@
 - ### **React JS** - <a name="simple-calculator" href="https://github.com/iliavatafov/Simple-Calculator">Simple-Calculator</a>
 
 - ### **Express, Mongoose and React JS** - <a name="my-tasks" href="https://github.com/iliavatafov/My-Tasks">My-Tasks</a>
+
+<hr>
 
 🌱 I'm currently learning Redux and developing my portfolio.
 
