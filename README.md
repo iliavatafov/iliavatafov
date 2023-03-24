@@ -9,7 +9,7 @@
 <img src="./stack.jpg"/>
 </div>
 
-<h3 align="center">My Work</h3>
+<h1 align="center">My Work</h1>
 
 <hr>
 
