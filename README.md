@@ -5,9 +5,14 @@
 <p align="center">eager to bring my skills and enthusiasm to a dynamic and growing organization. With a strong background in HTML, CSS, JavaScript, React, Express and Mongoose, I am confident in my ability to contribute to the development and design of engaging and user-friendly web applications. Whether it's creating visually appealing layouts or implementing responsive designs, I am always striving to exceed expectations and deliver exceptional results. I am eager to continue learning and growing as a developer, and am excited to see where my career will take me next. Let's create something great together!</p>
 
 <h3 align="center">My Technology Stack</h3>
+
+<hr>
+
 <div align="center" >
 <img src="./stack.jpg"/>
 </div>
+
+<hr>
 
 <h3 align="center">My Work</h3>
 
