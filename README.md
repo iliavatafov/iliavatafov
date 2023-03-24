@@ -11,8 +11,6 @@
 
 <h1 align="center">My Work</h1>
 
-<hr>
-
 - ### **React JS** - <a name="welovebooks" href="https://welovebooks.online/">WeLoveBooks</a>
 
 - ### **React JS** - <a name="perfectjobs-lite" href="https://perfectjobs-lite.netlify.app/">PerfectJobs-Lite</a>
