@@ -19,8 +19,6 @@
 
 - ### **Express, Mongoose and React JS** - <a name="my-tasks" href="https://github.com/iliavatafov/My-Tasks">My-Tasks</a>
 
-<hr>
-
 🌱 I'm currently learning Redux and developing my portfolio.
 
 ⚡ Fun fact: I have 9 years of experience in the banking sector, including roles as a Relationship Manager, Customer Experience Expert, and experienced Salesforce trainer. I also gained valuable experience in Scrum, Jira/Confluence, and UAT testing while working on the project in the bank to implement a new Omnichannel platform.
