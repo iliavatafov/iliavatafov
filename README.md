@@ -24,6 +24,8 @@
 
 - ### **React JS** - <a name="simple-calculator" href="https://github.com/iliavatafov/Simple-Calculator">Simple-Calculator</a>
 
+- ### **React JS** - <a name="expense-tracker" href="https://github.com/iliavatafov/Expenses-app">Expense Tracker</a>
+
 - ### **Express, Mongoose and React JS** - <a name="my-tasks" href="https://github.com/iliavatafov/My-Tasks">My-Tasks</a>
 
 <hr>
