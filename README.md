@@ -24,13 +24,11 @@
 
 - ### **React JS** - <a name="simple-calculator" href="https://github.com/iliavatafov/Simple-Calculator">Simple-Calculator</a>
 
-- ### **React JS** - <a name="expense-tracker" href="https://github.com/iliavatafov/Expenses-app">Expense Tracker</a>
-
 - ### **Express, Mongoose and React JS** - <a name="my-tasks" href="https://github.com/iliavatafov/My-Tasks">My-Tasks</a>
 
 <hr>
 
-🌱 I'm currently learning Redux and developing my portfolio.
+🌱 I'm currently developing my next demo React application with the aim of solidifying my knowledge of Redux and the new features of the React Router library.
 
 ⚡ Fun fact: I have 9 years of experience in the banking sector, including roles as a Relationship Manager, Customer Experience Expert, and experienced Salesforce trainer. I also gained valuable experience in Scrum, Jira/Confluence, and UAT testing while working on the project in the bank to implement a new Omnichannel platform.
 
