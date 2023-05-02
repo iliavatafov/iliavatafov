@@ -22,13 +22,13 @@
 
 - ### **React JS** - <a name="perfectjobs-lite" href="https://perfectjobs-lite.netlify.app/">PerfectJobs-Lite</a>
 
-- ### **React JS** - <a name="simple-calculator" href="https://github.com/iliavatafov/Simple-Calculator">Simple-Calculator</a>
+- ### **React JS** - <a name="simple-calculator" href="https://simple-calc-2893d.web.app/">Simple-Calculator</a>
 
-- ### **Express, Mongoose and React JS** - <a name="my-tasks" href="https://github.com/iliavatafov/My-Tasks">My-Tasks</a>
+- ### **Express, Mongoose and React JS** - <a name="my-tasks" href="https://my-tasks-2cbca.web.app/">My-Tasks</a>
 
 <hr>
 
-🌱 I'm currently developing my next demo React application with the aim of solidifying my knowledge of Redux and the new features of the React Router library.
+🌱 I'm currently developing my next React application with the aim of solidifying my knowledge of Redux and the new features of the React Router library.
 
 ⚡ Fun fact: I have 9 years of experience in the banking sector, including roles as a Relationship Manager, Customer Experience Expert, and experienced Salesforce trainer. I also gained valuable experience in Scrum, Jira/Confluence, and UAT testing while working on the project in the bank to implement a new Omnichannel platform.
 
