@@ -1,22 +1,14 @@
 <h1 align="center">&nbsp; Hi there!&nbsp;:wave:. </h1>
 
-<p align="center"><img src="https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif" /></p>
+<p align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW1tdGFnYmwwcmV4bWc4NmhiYWluc2ZhaW5va2o4bWVjZnVramVrMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7budMRwZvNGJ3pyE/giphy.gif" /></p>
 <h1 align="center">My name is Ilia Vatafov and I am a passionate Web Developer,</h1>
-<p align="center">eager to bring my skills and enthusiasm to a dynamic and growing organization. With a strong background in HTML, CSS, JavaScript, React, Express and Mongoose, I am confident in my ability to contribute to the development and design of engaging and user-friendly web applications. Whether it's creating visually appealing layouts or implementing responsive designs, I am always striving to exceed expectations and deliver exceptional results. I am eager to continue learning and growing as a developer, and am excited to see where my career will take me next. Let's create something great together!</p>
-
-<h3 align="center">My Technology Stack</h3>
-
-<hr>
-
-<div align="center" >
-<img src="./stack.jpg"/>
-</div>
-
-<hr>
+<p align="center">specializing in the development of insurance software products for RMS, a subsidiary of Moody's. Proficient in JavaScript and frameworks such as Vue/Nuxt and React, with a keen eye for detail in efficient styling using Tailwind CSS and implementing tabular data with Ag-Grid. Experienced in bug resolution and writing comprehensive tests, driven by a passion for Agile methodologies. Backed by over 9 years of experience in training, coaching, customer engagement, and relationship management within the banking sector. Eager to leverage technical skills and Agile experience to drive innovation and contribute to the success of web development projects.</p>
 
 <h3 align="center">My Work</h3>
 
 <hr>
+
+- ### **React JS** - <a name="bulgarian-flavours" href="https://github.com/iliavatafov/Bulgarian-Flavors">Bulgarian Flavours</a>
 
 - ### **React JS** - <a name="welovebooks" href="https://welovebooks.online/">WeLoveBooks</a>
 
@@ -28,10 +20,8 @@
 
 <hr>
 
-🌱 I'm currently developing my next React application with the aim of solidifying my knowledge of Redux and the new features of the React Router library.
+🌱 I'm currently developing my next React application, Bulgarian Flavours, which is a news website. You can see the current state in the links above.
 
 ⚡ Fun fact: I have 9 years of experience in the banking sector, including roles as a Relationship Manager, Customer Experience Expert, and experienced Salesforce trainer. I also gained valuable experience in Scrum, Jira/Confluence, and UAT testing while working on the project in the bank to implement a new Omnichannel platform.
-
-💼️ My CV: <a name="my-cv" href="./Ilia_Vatafov_CV.pdf" download>Resume</a>
 
 📫 How to reach me: [![LinkedIn logo](./l.png)](https://www.linkedin.com/in/ilia-vatafov-517ba3163/) [![Facebook logo](./f.png)](https://www.facebook.com/iliya.vatafov)
