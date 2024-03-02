@@ -1,4 +1,4 @@
-<h1 align="center">&nbsp; Hi there!&nbsp;:wave:. </h1>
+<h1 align="center">&nbsp; Hi there!&nbsp;👋 </h1>
 
 <p align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW1tdGFnYmwwcmV4bWc4NmhiYWluc2ZhaW5va2o4bWVjZnVramVrMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7budMRwZvNGJ3pyE/giphy.gif" /></p>
 <h1 align="center">My name is Ilia Vatafov and I am a passionate Web Developer,</h1>
