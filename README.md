@@ -10,7 +10,7 @@
 
 - ### **React JS** - <a name="bulgarian-flavours" href="https://github.com/iliavatafov/Bulgarian-Flavors">Bulgarian Flavours</a>
 
-- ### **React JS** - <a name="welovebooks" href="https://welovebooks.online/">WeLoveBooks</a>
+- ### **React JS** - <a name="welovebooks" href="https://github.com/iliavatafov/welovebooks.online">WeLoveBooks</a>
 
 - ### **React JS** - <a name="perfectjobs-lite" href="https://perfectjobs-lite.netlify.app/">PerfectJobs-Lite</a>
 
