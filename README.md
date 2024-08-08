@@ -8,9 +8,9 @@
 
 <hr>
 
-**React JS** - <a name="weather-app" href="https://66b506bc3bacca576abb5b62--subtle-cannoli-a1c632.netlify.app/">Weather App</a>
-
 **React JS** - <a name="bulgarian-flavours" href="https://66b509874d3694571a45c242--capable-frangollo-fbc02a.netlify.app/">Bulgarian Flavours</a>
+
+**React JS** - <a name="weather-app" href="https://66b506bc3bacca576abb5b62--subtle-cannoli-a1c632.netlify.app/">Weather App</a>
 
 **React JS** - <a name="perfectjobs-lite" href="https://perfectjobs-lite.netlify.app/">PerfectJobs-Lite</a>
 
