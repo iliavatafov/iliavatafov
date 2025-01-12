@@ -26,8 +26,13 @@ Welcome to my GitHub! I'm a passionate **Front-End Developer** specializing in *
 ### 📫 Connect With Me:
 
 - [LinkedIn](https://www.linkedin.com/in/ilia-vatafov-517ba3163/)
-- [Bulgarian Flavors](https://dashing-kringle-5254bd.netlify.app/)
 - [Company GitHub Profile](https://github.com/ivatafov-rms)
+
+---
+
+### 🚀 My Portfolio Project:
+- [Bulgarian Flavors Website](https://dashing-kringle-5254bd.netlify.app/)
+- [Bulgarian Flavors Repository](https://github.com/iliavatafov/Bulgarian-Flavors) 
 
 ---
 
