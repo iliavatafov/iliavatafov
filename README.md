@@ -41,7 +41,7 @@ Check out my recent contributions and see how much I commit to **React**, **Vue*
 ### 📫 Connect With Me:
 
 - [LinkedIn](https://www.linkedin.com/in/ilia-vatafov-517ba3163/)
-- [Portfolio Project](https://66b509874d3694571a45c242--capable-frangollo-fbc02a.netlify.app/)
+- [Portfolio Project](https://dashing-kringle-5254bd.netlify.app/)
   
 ---
 
