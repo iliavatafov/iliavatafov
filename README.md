@@ -18,7 +18,7 @@ Welcome to my GitHub! I'm a passionate **Front-End Developer** specializing in *
 
 ### 🔥 My GitHub Stats
 
-#### Profile 2 (Secondary):
+#### Personal Profile:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iliavatafov&show_icons=true&count_private=true&hide=prs&theme=radical&from=2021-01-01&to=2025-12-31)
 
 ---
@@ -27,7 +27,8 @@ Welcome to my GitHub! I'm a passionate **Front-End Developer** specializing in *
 
 - [LinkedIn](https://www.linkedin.com/in/ilia-vatafov-517ba3163/)
 - [Bulgarian Flavors](https://dashing-kringle-5254bd.netlify.app/)
-  
+- [Company GitHub Profile](https://github.com/ivatafov-rms)
+
 ---
 
 ### 🤝 Let's Collaborate:
