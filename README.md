@@ -19,7 +19,7 @@ Welcome to my GitHub! I'm a passionate **Front-End Developer** specializing in *
 ### 🔥 My GitHub Stats
 
 #### Profile 1 (Main):
-![GitHub Stats](https://github-readme-stats.vercel.app/api?ivatafov-rms&show_icons=true&count_private=true&hide=prs&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ivatafov-rms&show_icons=true&count_private=true&hide=prs&theme=radical)
 
 #### Profile 2 (Secondary):
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iliavatafov&show_icons=true&count_private=true&hide=prs&theme=radical)
@@ -34,7 +34,7 @@ Check out my recent contributions and see how much I commit to **React**, **Vue*
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?ivatafov-rms&layout=compact&theme=radical)
 
 #### Profile 2 (Secondary):
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iliavatafov&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivatafov-rms&layout=compact&theme=radical)
 
 ---
 
