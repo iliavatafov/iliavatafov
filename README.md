@@ -1,4 +1,4 @@
-# Hi there, I'm [Ilia Vatafov] 👋
+# Hi there, I'm Ilia Vatafov 👋
 
 Welcome to my GitHub! I'm a passionate **Front-End Developer** specializing in **React**, **Vue**, and **TypeScript**. With a strong background in the **financial sector**, I love building interactive and efficient web applications. 
 
@@ -40,9 +40,9 @@ Check out my recent contributions and see how much I commit to **React**, **Vue*
 
 ### 📫 Connect With Me:
 
-- [LinkedIn]([https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/ilia-vatafov-517ba3163/))
-- [Portfolio Project]([https://your-portfolio.com](https://66b509874d3694571a45c242--capable-frangollo-fbc02a.netlify.app/))
-
+- [LinkedIn](https://www.linkedin.com/in/ilia-vatafov-517ba3163/)
+- [Portfolio Project](https://66b509874d3694571a45c242--capable-frangollo-fbc02a.netlify.app/)
+  
 ---
 
 ### 🤝 Let's Collaborate:
