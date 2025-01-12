@@ -26,18 +26,6 @@ Welcome to my GitHub! I'm a passionate **Front-End Developer** specializing in *
 
 ---
 
-### 🏆 My Contributions
-
-Check out my recent contributions and see how much I commit to **React**, **Vue**, and **TypeScript** development!
-
-#### Profile 1 (Main):
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivatafov-rms&layout=compact&theme=radical&from=2021-01-01&to=2025-12-31)
-
-#### Profile 2 (Secondary):
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iliavatafov&layout=compact&theme=radical&from=2021-01-01&to=2025-12-31)
-
----
-
 ### 📫 Connect With Me:
 
 - [LinkedIn](https://www.linkedin.com/in/ilia-vatafov-517ba3163/)
