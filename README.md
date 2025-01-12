@@ -19,10 +19,10 @@ Welcome to my GitHub! I'm a passionate **Front-End Developer** specializing in *
 ### 🔥 My GitHub Stats
 
 #### Profile 1 (Main):
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ivatafov-rms&show_icons=true&count_private=true&hide=prs&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ivatafov-rms&show_icons=true&count_private=true&hide=prs&theme=radical&from=2021-01-01&to=2025-12-31)
 
 #### Profile 2 (Secondary):
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iliavatafov&show_icons=true&count_private=true&hide=prs&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iliavatafov&show_icons=true&count_private=true&hide=prs&theme=radical&from=2021-01-01&to=2025-12-31)
 
 ---
 
@@ -31,10 +31,10 @@ Welcome to my GitHub! I'm a passionate **Front-End Developer** specializing in *
 Check out my recent contributions and see how much I commit to **React**, **Vue**, and **TypeScript** development!
 
 #### Profile 1 (Main):
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?ivatafov-rms&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivatafov-rms&layout=compact&theme=radical&from=2021-01-01&to=2025-12-31)
 
 #### Profile 2 (Secondary):
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivatafov-rms&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iliavatafov&layout=compact&theme=radical&from=2021-01-01&to=2025-12-31)
 
 ---
 
